@@ -27,6 +27,7 @@ With 10+ years of experience, I’ve helped teams:
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
 
 ### ⚙️ DevOps & IaC
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
@@ -90,35 +91,23 @@ With 10+ years of experience, I’ve helped teams:
 
 ## 💼 Experience Snapshot
 
-- 🏢 **Senior Staff SRE — Panama Technologies**  
+- 🏢 **Senior Staff SRE — Denodo Technologies**  
   → Kubernetes SaaS platforms, DevSecOps, CI/CD automation  
 
-- 🏗️ **Technical Architect — KAV-GC Software**  
+- 🏗️ **Technical Architect — CG-VAK Softwares and Exports**  
   → HPC clusters (SLURM), observability platforms  
 
-- ⚙️ **Technical Consultant — Lenin Technologies**  
+- ⚙️ **Technical Consultant — Sedin Technologies**  
   → SLOs, incident response, cloud automation  
 
-- ☁️ **Cloud Consultant — Boothal-K Miles**  
+- ☁️ **Cloud Consultant — 8K Miles**  
   → AWS infra, Redis optimization, cost engineering  
 
 ---
 
 ## 🚀 Featured Work (Portfolio)
 
-> *(Tip: Replace these with your actual repos — this section boosts recruiter impact massively)*
-
-### 🔹 Kubernetes Platform Blueprint
-- Production-ready cluster setup with Terraform + Helm
-- Includes autoscaling, monitoring, and security baselines
-
-### 🔹 DevSecOps CI/CD Pipeline
-- GitLab pipeline with integrated scanning & quality gates
-- Automated build → scan → deploy workflow
-
-### 🔹 Observability Stack
-- Centralized logging + metrics + alerting
-- DataDog + CloudWatch integration patterns
+> *(WIP)*
 
 ---
 
@@ -130,14 +119,14 @@ I write about:
 - SRE metrics & reliability  
 - Cloud architecture  
 
-📖 *Check out my blog posts in this repo → `_posts/`*
+📖 *Check out my blog posts → https://blog.princepraveen.co.in*
 
 ---
 
 ## 🧾 Certifications
 
 - 🏆 AWS Certified Solutions Architect – Professional  
-- 🏆 Microsoft Certified: Azure Administrator Associate  
+- 🏆 Microsoft Certified: Azure Administrator Associate
 
 ---
 
@@ -161,8 +150,7 @@ I write about:
 
 If you're building **cloud-native platforms or scaling systems**, let's talk.
 
-🔗 https://www.linkedin.com/in/techietech  
-📫 princechennai@gmail.com  
+🔗 https://www.linkedin.com/in/princecrown
 
 ---
 
