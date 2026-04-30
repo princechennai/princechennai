@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prince Praveen
 
 🚀 **Site Reliability | DevOps | Platform Engineering**  
-📍 Chennai, India  
+📍 Coimbatore, India  
 🔗 https://www.linkedin.com/in/princecrown
 
 ---
