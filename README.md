@@ -55,16 +55,6 @@ With 10+ years of experience, I’ve helped teams:
 
 ---
 
-## 📊 GitHub Stats
-
-![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=princechennai&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=princechennai&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princechennai&layout=compact&theme=tokyonight)
-
----
-
 ## 🏗️ What I Build
 
 ### 🔹 Platform Engineering
